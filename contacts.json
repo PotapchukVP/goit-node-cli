@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Rosie Simpson",
+    "number": "459-12-56",
+    "email": "simpson@gmail.com"
+  },
+  {
+    "id": "2",
+    "name": "Hermione Kline",
+    "number": "443-89-12",
+    "email": "kline@gmail.com"
+  },
+  {
+    "id": "3",
+    "name": "Eden Clements",
+    "number": "645-17-79",
+    "email": "clements@gmail.com"
+  },
+  {
+    "id": "4",
+    "name": "Annie Copeland",
+    "number": "227-91-26",
+    "email": "copeland@gmail.com"
+  },
+  {
+    "id": "5",
+    "name": "John Doe",
+    "number": "123-45-67",
+    "email": "doe@gmail.com"
+  },
+  {
+    "id": "6",
+    "name": "Jane Smith",
+    "number": "987-65-43",
+    "email": "smith@gmail.com"
+  }
+]
